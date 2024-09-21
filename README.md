@@ -1,7 +1,7 @@
 # Scalla
 
 ## Overview
-Welcome to my responsive frontend website! This project highlights my proficiency in HTML, CSS, and Bootstrap, featuring a clean and modern user interface. The site is designed to provide a seamless experience across various devices, ensuring accessibility and usability for all users.
+Welcome to my responsive frontend Company's Portfolio website! This project highlights my proficiency in HTML, CSS, and Bootstrap, featuring a clean and modern user interface. The site is designed to provide a seamless experience across various devices, ensuring accessibility and usability for all users.
 
 ## Features
 Fully Responsive Design: The layout adapts smoothly to different screen sizes, from desktops to mobile devices.
