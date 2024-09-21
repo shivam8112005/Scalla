@@ -20,3 +20,4 @@ Copy code
 git clone [repository-url]
 Open index.html in your preferred web browser.
 ## Demo
+check it out live here https://shivam8112005.github.io/Scalla/
